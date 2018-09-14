@@ -1,0 +1,21 @@
+body{
+    margin: 20px 50px;
+    padding:30px 10px;
+}
+.td1{
+    width:860px;height:20px;
+    color: red;
+}
+.td2{
+    color:blue;
+    font-size: 20px;
+    line-height:28px;
+}
+
+article{
+    color:green;
+    background:url(img/bg.jpg) center;
+    font-size:22px;
+    line-height:50px;
+    text-align:center;
+}
